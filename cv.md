@@ -5,4 +5,4 @@
 5. "Catphotoapp", "cafe menu", "CSS colors by building a set of colored markers" from freeCodeCamp
 6. None
 7. I have a bachelors degree in telecommunication physics and electronics. Spent some time on freeCodeCamp learning HTML and CSS.
-8. I finished school with a B2 level in english and in University I got up to C1.  
+8. I finished school with a B2 level in english and in University I got up to C1.
