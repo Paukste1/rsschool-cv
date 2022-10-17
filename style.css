@@ -1,0 +1,18 @@
+.lines{
+    text-align: center;
+    display: block;
+    background-color: rgba(255, 117, 53, 0.082);
+}
+
+    hr {
+            height: 2px;
+            background-color: brown;
+            border-color: brown;
+        }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 10%;
+    width: 10%;
+}
